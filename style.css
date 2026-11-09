@@ -1,4 +1,9 @@
 
+.center-image {
+  display: block;   
+  margin: 0 auto;   
+  width: 50%;       
+}
 style {
   width: 340px;
   max-width: 100%;
@@ -30,4 +35,6 @@ body {
   margin: 0;
   padding: 0;
 }
-<img src='November 2026.jpeg' align=center >
+
+
+
